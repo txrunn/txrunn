@@ -1,5 +1,5 @@
 # About Me:
-Hey, I'm rune. <br><br>My name is Tarun Gunaseelan, and I'm a student of Computer Science(B.S.) and Psychology(B.S.) at the University of Maryland. I have a large amount of interest in exploring Cybersecurity, Human Computer Interaction and software engineering. I love creating my own projects that implement a philosophy of prioritizing UX/UI,  while maintaining efficiency and scalability. <br><br>I am constantly working on a large number of side projects, changes are only committed on GitHub when l make significant progress.
+Hey, I'm rune. <br><br>My name is Tarun Gunaseelan, and I'm a student of Computer Science(B.S.) and Psychology(B.S.) at the University of Maryland. I have a large amount of interest in exploring Cybersecurity, Human Computer Interaction and software engineering. I love creating my own projects that implement a philosophy of prioritizing UX/UI,  while maintaining efficiency and scalability. <br><br>I am constantly working on a large number of side projects, changes are only committed on GitHub when l make significant progress.<br><br>In my free time I love tinkering, horror games, reading, films, working on my music and volunteering with my friends.
 
 
 
