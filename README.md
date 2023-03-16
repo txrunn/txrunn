@@ -8,18 +8,18 @@ Hey, I'm Tarun. <br><br>I'm a student of Information Science and Psychology at t
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/txrunn/website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=website" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=website&theme=transparent" />
 </a>
 <a href="https://github.com/txrunn/cfn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=cfn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=cfn&theme=transparent" />
 </a>
 <a href="https://github.com/txrunn/r">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=r" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=r&theme=transparent" />
 </a>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txrunn&langs_count=8)](https://github.com/txrunn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txrunn&langs_count=8&theme=transparent)](https://github.com/txrunn)
 
 
 
