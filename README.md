@@ -4,6 +4,16 @@ Hey, I'm Tarun. <br><br>I'm a student of Information Science and Psychology at t
 ### [resume](https://nextcloud.tarungunaseelan.com/s/zgFcg6WaBxde3rs/download/Gunaseelan_resume.pdf)
 
 <!--START_SECTION:waka-->
+
+
+
+
+
+
+
+
+
+
 <!--END_SECTION:waka-->
 ---
 [![](https://visitcount.itsvg.in/api?id=txrunn&icon=0&color=4)](https://visitcount.itsvg.in)
