@@ -5,10 +5,6 @@ Hey, I'm Tarun. <br><br>I'm a student of Information Science and Psychology at t
 
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 500 hrs
-```
-
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/txrunn/website">
@@ -21,7 +17,11 @@ Total Time: 500 hrs
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=r" />
 </a>
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txrunn&langs_count=8)](https://github.com/txrunn)
+
+
 
 [![](https://visitcount.itsvg.in/api?id=txrunn&icon=0&color=4)](https://visitcount.itsvg.in)
   ## donating
