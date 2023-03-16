@@ -10,11 +10,15 @@ Total Time: 500 hrs
 ```
 
 <!--END_SECTION:waka-->
+
 <a href="https://github.com/txrunn/website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=website" />
 </a>
 <a href="https://github.com/txrunn/cfn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=cfn" />
+</a>
+<a href="https://github.com/txrunn/r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=r" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txrunn&langs_count=8)](https://github.com/txrunn)
