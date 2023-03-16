@@ -16,7 +16,9 @@ Total Time: 500 hrs
 <a href="https://github.com/txrunn/cfn">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=txrunn&repo=cfn" />
 </a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txrunn&langs_count=8)](https://github.com/txrunn)
+
 [![](https://visitcount.itsvg.in/api?id=txrunn&icon=0&color=4)](https://visitcount.itsvg.in)
   ## donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/tarungunaseelan) 
