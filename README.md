@@ -4,6 +4,12 @@ Hey, I'm Tarun. <br><br>I'm a student of Information Science and Psychology at t
 
 <!--START_SECTION:waka-->
 
+```text
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/txrunn/website">
