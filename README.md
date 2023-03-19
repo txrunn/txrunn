@@ -7,7 +7,7 @@ Hey, I'm Tarun. <br><br>I'm a student of Information Science and Psychology at t
 ```text
 Total Time: 0 secs
 
-No activity tracked
+Language   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
